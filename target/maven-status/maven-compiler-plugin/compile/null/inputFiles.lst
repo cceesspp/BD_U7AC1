@@ -1,0 +1,10 @@
+/Users/carlossanchez/proyecto-api-main/src/main/java/fca/suayed/application/ApiApplication.java
+/Users/carlossanchez/proyecto-api-main/src/main/java/fca/suayed/dal/StoreDal.java
+/Users/carlossanchez/proyecto-api-main/src/main/java/fca/suayed/dao/StoreDao.java
+/Users/carlossanchez/proyecto-api-main/src/main/java/fca/suayed/dto/ClientDto.java
+/Users/carlossanchez/proyecto-api-main/src/main/java/fca/suayed/dto/ProductDto.java
+/Users/carlossanchez/proyecto-api-main/src/main/java/fca/suayed/dto/ResponseDto.java
+/Users/carlossanchez/proyecto-api-main/src/main/java/fca/suayed/resources/ClientsResource.java
+/Users/carlossanchez/proyecto-api-main/src/main/java/fca/suayed/resources/HelloResource.java
+/Users/carlossanchez/proyecto-api-main/src/main/java/fca/suayed/resources/ProductsResource.java
+/Users/carlossanchez/proyecto-api-main/src/main/java/fca/suayed/services/JdbiService.java

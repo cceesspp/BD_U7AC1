@@ -1,0 +1,10 @@
+fca/suayed/dao/StoreDao.class
+fca/suayed/dto/ClientDto.class
+fca/suayed/resources/ClientsResource.class
+fca/suayed/dal/StoreDal.class
+fca/suayed/dto/ResponseDto.class
+fca/suayed/dto/ProductDto.class
+fca/suayed/application/ApiApplication.class
+fca/suayed/services/JdbiService.class
+fca/suayed/resources/ProductsResource.class
+fca/suayed/resources/HelloResource.class
